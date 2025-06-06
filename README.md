@@ -1,5 +1,11 @@
 ## Smart Chat Assistant — Prototype Inspired by Text.ai
 
+## Links
+Backend - https://github.com/Binit06/personal-assist-ai-backend
+
+Frontend - https://github.com/Binit06/personal-assist-ai-sample
+
+
 - Built with: Gemini API, Python/JS/React (or whatever you used)
 - What it does:
   - Detects tone of user in real-time (using ML)
