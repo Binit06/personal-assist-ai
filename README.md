@@ -6,7 +6,7 @@ Backend - https://github.com/Binit06/personal-assist-ai-backend
 Frontend - https://github.com/Binit06/personal-assist-ai-sample
 
 
-- Built with: Gemini API, Python/JS/React (or whatever you used)
+- Built with: Gemini API, Python
 - What it does:
   - Detects tone of user in real-time (using ML)
   - Dynamically adapts AI responses to match tone
